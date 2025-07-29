@@ -42,7 +42,7 @@ A full-stack Flask web app for managing vehicle entries, exits, real-time slot a
 **Quiz Master – Online Exam Portal**  
 Developed a role-based quiz management system. Admins can manage subjects, chapters, quizzes, and questions; users can register, take quizzes, and view scores. Built with Flask, SQLite, Bootstrap, and Jinja2.
 
-**ML-Based Customer Conversion Predictor (IIT Madras)**  
+**ML-Based Customer Conversion Predictor **  
 Built a machine learning model to predict customer conversions using clickstream data. Applied advanced feature engineering, model tuning (Optuna), and ensembling (CatBoost, XGBoost) to maximize prediction accuracy.
 
 **MyStuff – Shopify Store Management**  
@@ -52,12 +52,6 @@ Managed end-to-end operations of this Shopify store. Responsibilities included p
 **TrendZone – Multi-Category Shopify Store (Design + Operations)**  
 [Visit TrendZone](https://trendzone.in)  
 Designed and managed a multi-category eCommerce store on Shopify. Handled theme customization, homepage design, app integrations, product catalog setup, order processing, and customer interaction via Shopify Admin. Focused on enhancing user experience and data-informed business strategies.
-
-**Stock Price Prediction Using LSTM**  
-Developed a deep learning model with TensorFlow and Keras to forecast stock prices. Incorporated EMA, RSI, VWAP, MACD, and ATR indicators for better prediction accuracy.
-
-**Stock Trading Signal Model Using EMA**  
-Created a rule-based strategy model to generate real-time buy/sell signals. Implemented parameter tuning and backtesting on historical data to optimize accuracy.
 
 **Retail Sales Analysis Dashboard (Excel + SQL + Power BI)**  
 Built an end-to-end dashboard to analyze sales, inventory, and profitability. Used Excel and SQL for data cleaning and Power BI for building interactive, actionable dashboards.
