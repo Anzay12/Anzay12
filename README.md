@@ -42,7 +42,7 @@ A full-stack Flask web app for managing vehicle entries, exits, real-time slot a
 **Quiz Master – Online Exam Portal**  
 Developed a role-based quiz management system. Admins can manage subjects, chapters, quizzes, and questions; users can register, take quizzes, and view scores. Built with Flask, SQLite, Bootstrap, and Jinja2.
 
-**ML-Based Customer Conversion Predictor **  
+**ML-Based Customer Conversion Predictor**  
 Built a machine learning model to predict customer conversions using clickstream data. Applied advanced feature engineering, model tuning (Optuna), and ensembling (CatBoost, XGBoost) to maximize prediction accuracy.
 
 **MyStuff – Shopify Store Management**  
