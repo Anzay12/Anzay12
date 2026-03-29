@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Himanshu%20Pandey&fontSize=52&fontColor=fff&fontAlignY=36&desc=⚡%20Data%20Scientist%20%7C%20Quant%20ML%20Engineer%20⚡&descAlignY=56&descSize=18&animation=twinkling" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=650&lines=From+Data+to+Alpha+📈;ML+%7C+Algorithmic+Trading+%7C+MLOps+🤖;IIT+Madras+%7C+BS+Data+Science+2026+🎓;Building+Systems+that+Act+on+Data+⚡;Quant+ML+Engineer+in+the+Making+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=650&lines=From+Data+to+Alpha;ML+%7C+Algorithmic+Trading+%7C+MLOps;IIT+Madras+%7C+BS+Data+Science+2026;Building+Systems+that+Act+on+Data;Quant+ML+Engineer+in+the+Making" alt="Typing SVG" />
 </a>
 
 <br/>
