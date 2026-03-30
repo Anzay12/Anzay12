@@ -46,6 +46,7 @@ himanshu = {
 ## 💼 Work Experience
 
 <div align="center">
+
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║   🏢  Shodhshala  |           Data Science Intern — ML      ║
@@ -124,6 +125,32 @@ himanshu = {
 | 🛒 [E-commerce RTO Prediction](https://github.com/Anzay12/Prediction_RTO) | Predict Return-to-Origin to cut logistics cost | Gradient Boosting | F1: 68.75% · AUC: 73.33% |
 | 🎭 [Sentiment Analysis NLP](https://github.com/Anzay12/movie-sentiment-analysis) | IMDB review classification on 50K reviews | Naive Bayes, TF-IDF | 89% Accuracy |
 | 💰 [Customer Purchase Prediction](https://github.com/Anzay12/customer-purchase-value-prediction) | Kaggle — predict session purchase value | XGBoost, GroupKFold | R² = 0.422 |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+> 🎖️ *Badges earned through real contributions, open-source work & community engagement*
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="80" title="Arctic Code Vault Contributor"/>
+&nbsp;&nbsp;
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO — Merged a PR without review"/>
+&nbsp;&nbsp;
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark — Opened merged pull requests"/>
+
+<br/><br/>
+
+| 🏅 Achievement | 📋 Description |
+|:--------------:|:--------------:|
+| 🦈 **Pull Shark** | Opened pull requests that got merged |
+| 🤠 **YOLO** | Merged a pull request without a review |
+| 🌊 **Arctic Code Vault** | Contributed to the 2020 GitHub Archive Program |
 
 </div>
 
