@@ -48,7 +48,7 @@ himanshu = {
 <div align="center">
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║   🏢  Shodhshala  |      Data Science Intern — ML           ║
+║   🏢  Shodhshala  |           Data Science Intern — ML      ║
 ║   📅  Jan 2026 – Present  |  🌐 Remote                      ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
