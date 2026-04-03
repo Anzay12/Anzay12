@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=650&lines=From+Data+to+Alpha;ML+%7C+Algorithmic+Trading+%7C+MLOps;IIT+Madras+%7C+BS+Data+Science+2026;Building+Systems+that+Act+on+Data;Quant+ML+Engineer+in+the+Making" alt="Typing SVG" />
 </a>
 
-<br/>
+ <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-pandey12/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anzay12)
