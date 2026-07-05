@@ -149,6 +149,79 @@ himanshu = {
 
 ---
 
+## 🧬 GenAI & Agentic AI Ecosystem
+
+<div align="center">
+
+> ⚡ *"Retrieval, reasoning, memory & guardrails — the stack behind an agent that actually ships."*
+
+### 🧠 LLMs & Foundation Models
+![OpenAI GPT](https://img.shields.io/badge/OpenAI%20GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Meta Llama](https://img.shields.io/badge/Meta%20Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![Mistral AI](https://img.shields.io/badge/Mistral%20AI-FF7000?style=for-the-badge&logo=mistralai&logoColor=white)
+![Cohere](https://img.shields.io/badge/Cohere-39594D?style=for-the-badge&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-2E3440?style=for-the-badge&logoColor=white)
+
+### 🤖 Agentic AI & Agent SDKs
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF5A5F?style=for-the-badge&logoColor=white)
+![Microsoft AutoGen](https://img.shields.io/badge/Microsoft%20AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI%20Agents%20SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
+![PydanticAI](https://img.shields.io/badge/PydanticAI-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Semantic Kernel](https://img.shields.io/badge/Semantic%20Kernel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![AWS Strands Agents](https://img.shields.io/badge/AWS%20Strands%20Agents-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### 🔎 RAG & Retrieval
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000020?style=for-the-badge&logoColor=white)
+![Haystack](https://img.shields.io/badge/Haystack-2C6E49?style=for-the-badge&logoColor=white)
+![DSPy](https://img.shields.io/badge/DSPy-FF6F00?style=for-the-badge&logoColor=white)
+![GraphRAG](https://img.shields.io/badge/GraphRAG-8B5CF6?style=for-the-badge&logoColor=white)
+![Unstructured](https://img.shields.io/badge/Unstructured-1A1A2E?style=for-the-badge&logoColor=white)
+
+### 🕸️ Vector Databases & Memory
+![Pinecone](https://img.shields.io/badge/Pinecone-1B1B1F?style=for-the-badge&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-31E7B6?style=for-the-badge&logoColor=black)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white)
+![Chroma](https://img.shields.io/badge/Chroma-FFA500?style=for-the-badge&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Mem0](https://img.shields.io/badge/Mem0-6366F1?style=for-the-badge&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
+
+### 📊 LLM Observability & Evaluation
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logoColor=white)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logoColor=white)
+![Arize Phoenix](https://img.shields.io/badge/Arize%20Phoenix-8B5CF6?style=for-the-badge&logoColor=white)
+![Ragas](https://img.shields.io/badge/Ragas-EF4444?style=for-the-badge&logoColor=white)
+![Promptfoo](https://img.shields.io/badge/Promptfoo-DC2626?style=for-the-badge&logoColor=white)
+![Helicone](https://img.shields.io/badge/Helicone-0EA5E9?style=for-the-badge&logoColor=white)
+
+### 🔌 MCP & Protocols
+![Model Context Protocol](https://img.shields.io/badge/MCP-6366F1?style=for-the-badge&logoColor=white)
+![FastMCP](https://img.shields.io/badge/FastMCP-A78BFA?style=for-the-badge&logoColor=white)
+![GitHub MCP Server](https://img.shields.io/badge/GitHub%20MCP%20Server-181717?style=for-the-badge&logo=github&logoColor=white)
+![Slack MCP Server](https://img.shields.io/badge/Slack%20MCP%20Server-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+### 🛡️ Responsible AI & Guardrails
+![Guardrails AI](https://img.shields.io/badge/Guardrails%20AI-6366F1?style=for-the-badge&logoColor=white)
+![NVIDIA NeMo Guardrails](https://img.shields.io/badge/NeMo%20Guardrails-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Azure AI Content Safety](https://img.shields.io/badge/Azure%20AI%20Content%20Safety-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+### ⚙️ Orchestration & Automation
+![Temporal](https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logoColor=white)
+![Prefect](https://img.shields.io/badge/Prefect-070E10?style=for-the-badge&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+---
+
 ## 🎓 Professional Certifications
 
 <div align="center">
