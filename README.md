@@ -1,334 +1,121 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Himanshu%20Pandey&fontSize=52&fontColor=fff&fontAlignY=36&desc=⚡%20Data%20Scientist%20%7C%20Quant%20ML%20Engineer%20%7C%20MLOps%20⚡&descAlignY=56&descSize=18&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0F172A&height=150&section=header&text=Himanshu%20Pandey&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Data%20Scientist%20%7C%20Quant%20ML%20%26%20MLOps%20Engineer&descAlignY=62&descSize=16" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=From+Data+to+Alpha;ML+%7C+Algorithmic+Trading+%7C+MLOps;IIT+Madras+%7C+BS+Data+Science+2026;Building+Systems+that+Act+on+Data;Quant+ML+Engineer+in+the+Making" alt="Typing SVG" />
-</a>
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Live-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-omega-two-31.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-pandey12/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anzay12)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshu.pandey.ds@gmail.com)
-[![IIT Madras](https://img.shields.io/badge/IIT%20Madras-FF6B35?style=for-the-badge&logo=google-scholar&logoColor=white)](https://study.iitm.ac.in/)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Anzay12&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/Anzay12?style=for-the-badge&color=A78BFA&labelColor=0d1117)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=vercel&logoColor=white)](https://portfolio-omega-two-31.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-pandey12/)
+[![GitHub](https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=white)](https://github.com/Anzay12)
+[![Email](https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=white)](mailto:himanshu.pandey.ds@gmail.com)
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+## 👋 About Me
 
-## 🧠 About Me
+Data Science & MLOps Intern at **Shodhshala**, building production ML infrastructure for high-frequency trading data. Final-year **BS in Data Science & Applications, IIT Madras** (graduating Aug 2026), with hands-on experience across the ML lifecycle — ETL, feature engineering, experiment tracking, deployment, and monitoring.
 
-```python
-himanshu = {
-    "role"       : "Data Science Intern @ Shodhshala 🏢",
-    "education"  : "BS Data Science & Applications — IIT Madras (2026) 🎓",
-    "focus"      : ["Algorithmic Trading 📈", "MLOps ⚙️", "Time-Series Forecasting 🔮"],
-    "stack"      : ["Python", "XGBoost", "PostgreSQL", "MLflow", "DVC", "Docker", "AWS"],
-    "mlops"      : ["MLflow", "DVC", "DagsHub", "Airflow", "Grafana", "Kubeflow", "MinIO"],
-    "currently"  : "Building ML-driven quantitative trading & MLOps pipelines 💹",
-    "goal"       : "Quant ML Engineer @ top hedge fund or fintech 🚀",
-    "fun_fact"   : "I backtest strategies before making life decisions too 😂",
-}
-```
+Alongside my internship, I independently build and backtest algorithmic trading strategies for NSE index options using Python and the Zerodha Kite API, which is where most of my production-engineering instincts come from.
 
-> 💬 *"I don't just analyze data — I build systems that act on it."*
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+🎯 **Currently:** Deepening GenAI / LLM engineering skills — RAG pipelines, agentic frameworks, MCP
+🚀 **Open to:** Quant ML Engineer · MLOps Engineer · Data Science roles
 
 ---
 
-## 💼 Work Experience
+## 💼 Experience
 
-<div align="center">
+**Data Science & MLOps Intern**, Shodhshala — Remote
+Jan 2026 – Present
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║   🏢  Shodhshala  |           Data Science Intern — ML      ║
-║   📅  Jan 2026 – Present  |  🌐 Remote                      ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-- 🔬 Engineered **30+ features** from raw market data → **~15% signal quality boost**
-- 📊 Developed & backtested **algorithmic trading strategies** → **~12% avg win rate improvement**
-- 🗄️ Managed **PostgreSQL DB** with **1M+ rows** of high-frequency financial data
-- ⚡ Built **automated ETL pipelines** → **~40% faster** data preprocessing
-- 📡 Monitored **live deployed models** & delivered actionable trading insights
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+- Engineered 30+ features from raw market data, improving signal quality by ~15%
+- Developed and backtested algorithmic trading strategies, improving average win rate by ~12%
+- Managed a PostgreSQL database with 1M+ rows of high-frequency financial data
+- Built automated ETL pipelines, cutting data preprocessing time by ~40%
+- Monitored live deployed models and delivered actionable trading insights
 
 ---
 
-## 🛠️ Tech Stack
+## 📂 Key Projects
 
-<div align="center">
-
-### ⚡ Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20APIs-FF6B6B?style=for-the-badge&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![ETL](https://img.shields.io/badge/ETL%20Pipelines-4A90E2?style=for-the-badge&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-### 🔬 MLOps
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logoColor=white)
-![DagsHub](https://img.shields.io/badge/DagsHub-6366F1?style=for-the-badge&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Kubeflow](https://img.shields.io/badge/Kubeflow-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/Weights_%26_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=black)
-![Great Expectations](https://img.shields.io/badge/Great%20Expectations-FF6F61?style=for-the-badge&logoColor=white)
-![MinIO](https://img.shields.io/badge/MinIO-C72C48?style=for-the-badge&logo=minio&logoColor=white)
-![BentoML](https://img.shields.io/badge/BentoML-000000?style=for-the-badge&logoColor=white)
-![Evidently AI](https://img.shields.io/badge/Evidently%20AI-7C3AED?style=for-the-badge&logoColor=white)
-![Feast](https://img.shields.io/badge/Feast-0EA5E9?style=for-the-badge&logoColor=white)
-![ClearML](https://img.shields.io/badge/ClearML-1E1E1E?style=for-the-badge&logoColor=white)
-![Model Registry](https://img.shields.io/badge/Model%20Registry-A78BFA?style=for-the-badge&logoColor=white)
-![Experiment Tracking](https://img.shields.io/badge/Experiment%20Tracking-8B5CF6?style=for-the-badge&logoColor=white)
-![Data Versioning](https://img.shields.io/badge/Data%20Versioning-6366F1?style=for-the-badge&logoColor=white)
-![Pipeline Automation](https://img.shields.io/badge/Pipeline%20Automation-22C55E?style=for-the-badge&logoColor=white)
-
-### 🤖 Machine Learning & Data
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-2C8EBB?style=for-the-badge&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-4C72B0?style=for-the-badge&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🧰 Tools
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+| Project | Description | Tech Stack | Results |
+|---|---|---|---|
+| [Movie Audience Prediction](https://github.com/Anzay12/movie-audience-prediction-ml) | Time-series forecasting with a weighted ensemble | XGBoost, LightGBM, Random Forest | Lag 1/7/14/30-day features |
+| [E-commerce RTO Prediction](https://github.com/Anzay12/Prediction_RTO) | Predicts Return-to-Origin to reduce logistics cost | Gradient Boosting | F1: 68.75% · AUC: 73.33% |
+| [Sentiment Analysis NLP](https://github.com/Anzay12/movie-sentiment-analysis) | IMDB review classification on 50K reviews | Naive Bayes, TF-IDF | 89% Accuracy |
+| [Customer Purchase Prediction](https://github.com/Anzay12/customer-purchase-value-prediction) | Kaggle challenge — predicts session purchase value | XGBoost, GroupKFold | R² = 0.422 |
+| [Vehicle Parking System](https://github.com/Anzay12/Vehicle_Parking_System) | Full-stack distributed parking platform | Flask, Vue.js, Celery, Redis | REST API + async jobs |
 
 ---
 
-## 🧬 GenAI & Agentic AI Ecosystem
+## 🧰 Skills
 
-<div align="center">
+**Languages & Backend**
+![Python](https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0F172A?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-0F172A?style=flat-square&logo=flask&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0F172A?style=flat-square&logoColor=white)
 
-> ⚡ *"Retrieval, reasoning, memory & guardrails — the stack behind an agent that actually ships."*
+**Data & Machine Learning**
+![Pandas](https://img.shields.io/badge/Pandas-0F172A?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-0F172A?style=flat-square&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0F172A?style=flat-square&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-0F172A?style=flat-square&logoColor=white)
+![LightGBM](https://img.shields.io/badge/LightGBM-0F172A?style=flat-square&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-0F172A?style=flat-square&logo=pytorch&logoColor=white)
 
-### 🧠 LLMs & Foundation Models
-![OpenAI GPT](https://img.shields.io/badge/OpenAI%20GPT-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic Claude](https://img.shields.io/badge/Anthropic%20Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Meta Llama](https://img.shields.io/badge/Meta%20Llama-0467DF?style=for-the-badge&logo=meta&logoColor=white)
-![Mistral AI](https://img.shields.io/badge/Mistral%20AI-FF7000?style=for-the-badge&logo=mistralai&logoColor=white)
-![Cohere](https://img.shields.io/badge/Cohere-39594D?style=for-the-badge&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![vLLM](https://img.shields.io/badge/vLLM-2E3440?style=for-the-badge&logoColor=white)
+**MLOps & Infrastructure**
+![MLflow](https://img.shields.io/badge/MLflow-0F172A?style=flat-square&logoColor=white)
+![DVC](https://img.shields.io/badge/DVC-0F172A?style=flat-square&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0F172A?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0F172A?style=flat-square&logo=amazonaws&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-0F172A?style=flat-square&logo=apacheairflow&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-0F172A?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-0F172A?style=flat-square&logo=prometheus&logoColor=white)
 
-### 🤖 Agentic AI & Agent SDKs
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF5A5F?style=for-the-badge&logoColor=white)
-![Microsoft AutoGen](https://img.shields.io/badge/Microsoft%20AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI%20Agents%20SDK-412991?style=for-the-badge&logo=openai&logoColor=white)
-![PydanticAI](https://img.shields.io/badge/PydanticAI-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![Semantic Kernel](https://img.shields.io/badge/Semantic%20Kernel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![AWS Strands Agents](https://img.shields.io/badge/AWS%20Strands%20Agents-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+**GenAI & LLM Engineering**
+![OpenAI](https://img.shields.io/badge/OpenAI-0F172A?style=flat-square&logo=openai&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Anthropic%20Claude-0F172A?style=flat-square&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-0F172A?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0F172A?style=flat-square&logo=huggingface&logoColor=white)
+![Vector Databases](https://img.shields.io/badge/Vector%20Databases-0F172A?style=flat-square&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-0F172A?style=flat-square&logoColor=white)
 
-### 🔎 RAG & Retrieval
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000020?style=for-the-badge&logoColor=white)
-![Haystack](https://img.shields.io/badge/Haystack-2C6E49?style=for-the-badge&logoColor=white)
-![DSPy](https://img.shields.io/badge/DSPy-FF6F00?style=for-the-badge&logoColor=white)
-![GraphRAG](https://img.shields.io/badge/GraphRAG-8B5CF6?style=for-the-badge&logoColor=white)
-![Unstructured](https://img.shields.io/badge/Unstructured-1A1A2E?style=for-the-badge&logoColor=white)
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0F172A?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-0F172A?style=flat-square&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-0F172A?style=flat-square&logo=sqlite&logoColor=white)
 
-### 🕸️ Vector Databases & Memory
-![Pinecone](https://img.shields.io/badge/Pinecone-1B1B1F?style=for-the-badge&logoColor=white)
-![Weaviate](https://img.shields.io/badge/Weaviate-31E7B6?style=for-the-badge&logoColor=black)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logoColor=white)
-![Chroma](https://img.shields.io/badge/Chroma-FFA500?style=for-the-badge&logoColor=white)
-![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Mem0](https://img.shields.io/badge/Mem0-6366F1?style=for-the-badge&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
-
-### 📊 LLM Observability & Evaluation
-![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logoColor=white)
-![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logoColor=white)
-![Arize Phoenix](https://img.shields.io/badge/Arize%20Phoenix-8B5CF6?style=for-the-badge&logoColor=white)
-![Ragas](https://img.shields.io/badge/Ragas-EF4444?style=for-the-badge&logoColor=white)
-![Promptfoo](https://img.shields.io/badge/Promptfoo-DC2626?style=for-the-badge&logoColor=white)
-![Helicone](https://img.shields.io/badge/Helicone-0EA5E9?style=for-the-badge&logoColor=white)
-
-### 🔌 MCP & Protocols
-![Model Context Protocol](https://img.shields.io/badge/MCP-6366F1?style=for-the-badge&logoColor=white)
-![FastMCP](https://img.shields.io/badge/FastMCP-A78BFA?style=for-the-badge&logoColor=white)
-![GitHub MCP Server](https://img.shields.io/badge/GitHub%20MCP%20Server-181717?style=for-the-badge&logo=github&logoColor=white)
-![Slack MCP Server](https://img.shields.io/badge/Slack%20MCP%20Server-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-
-### 🛡️ Responsible AI & Guardrails
-![Guardrails AI](https://img.shields.io/badge/Guardrails%20AI-6366F1?style=for-the-badge&logoColor=white)
-![NVIDIA NeMo Guardrails](https://img.shields.io/badge/NeMo%20Guardrails-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Azure AI Content Safety](https://img.shields.io/badge/Azure%20AI%20Content%20Safety-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-### ⚙️ Orchestration & Automation
-![Temporal](https://img.shields.io/badge/Temporal-000000?style=for-the-badge&logoColor=white)
-![Prefect](https://img.shields.io/badge/Prefect-070E10?style=for-the-badge&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+**Tools**
+![Git](https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-0F172A?style=flat-square&logo=githubactions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0F172A?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-0F172A?style=flat-square&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0F172A?style=flat-square&logo=linux&logoColor=white)
 
 ---
 
-## 🎓 Professional Certifications
+## 🎓 Certifications
 
-<div align="center">
-
-| 🏅 Certification | 📋 Focus Area |
-|:----------------:|:-------------|
-| 🔬 **Complete MLOps Bootcamp (10+ End-to-End ML Projects)** | MLflow, DVC, Airflow, Deployment |
-| ☁️ **AWS Cloud Practitioner Certification** | Cloud Computing & AWS Fundamentals |
-| 💻 **Full Stack Developer** | React, JavaScript, Web Development |
-| 🗃️ **SQL (Advanced)** | Advanced SQL & Database Querying |
-| 🤖 **Claude Code 101** | AI-Assisted Development |
-| ☁️ **Cloud Computing and Distributed Systems** | Distributed Systems |
-| 📊 **Data Analysis and Decision Making** | Analytics & Decision Science |
-| ⛏️ **Data Mining** | Data Mining & Pattern Discovery |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+| Certification | Focus Area |
+|---|---|
+| Complete MLOps Bootcamp (10+ End-to-End ML Projects) | MLflow, DVC, Airflow, Deployment |
+| AWS Cloud Practitioner Certification | Cloud Computing & AWS Fundamentals |
+| Full Stack Developer | React, JavaScript, Web Development |
+| SQL (Advanced) | Advanced SQL & Database Querying |
+| Claude Code 101 | AI-Assisted Development |
+| Cloud Computing and Distributed Systems | Distributed Systems |
+| Data Analysis and Decision Making | Analytics & Decision Science |
+| Data Mining | Data Mining & Pattern Discovery |
 
 ---
 
-## 📂 Featured Projects
+## 📊 GitHub Activity
 
 <div align="center">
 
-| 🏷️ Project | 📝 Description | ⚙️ Tech | 📈 Results |
-|:----------:|:-------------:|:-------:|:---------:|
-| 🎬 [Movie Audience Prediction](https://github.com/Anzay12/movie-audience-prediction-ml) | Time-series forecasting with weighted ensemble | XGBoost, LightGBM, RF | Lag 1/7/14/30-day features |
-| 🛒 [E-commerce RTO Prediction](https://github.com/Anzay12/Prediction_RTO) | Predict Return-to-Origin to cut logistics cost | Gradient Boosting | F1: 68.75% · AUC: 73.33% |
-| 🎭 [Sentiment Analysis NLP](https://github.com/Anzay12/movie-sentiment-analysis) | IMDB review classification on 50K reviews | Naive Bayes, TF-IDF | 89% Accuracy |
-| 💰 [Customer Purchase Prediction](https://github.com/Anzay12/customer-purchase-value-prediction) | Kaggle — predict session purchase value | XGBoost, GroupKFold | R² = 0.422 |
-| 🚗 [Vehicle Parking System](https://github.com/Anzay12/Vehicle_Parking_System) | Full-stack distributed parking platform | Flask, Vue.js, Celery, Redis | REST API + async jobs |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-> 🎖️ *Badges earned through real contributions, open-source work & community engagement*
-
-<img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="80" title="Arctic Code Vault Contributor"/>
-&nbsp;&nbsp;
-<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO — Merged a PR without review"/>
-&nbsp;&nbsp;
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark — Opened merged pull requests"/>
-
-<br/><br/>
-
-| 🏅 Achievement | 📋 Description |
-|:--------------:|:--------------:|
-| 🦈 **Pull Shark** | Opened pull requests that got merged |
-| 🤠 **YOLO** | Merged a pull request without a review |
-| 🌊 **Arctic Code Vault** | Contributed to the 2020 GitHub Archive Program |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anzay12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff&count_private=true"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anzay12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A78BFA&text_color=ffffff&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Anzay12&theme=tokyonight-duo&hide_border=true&background=0d1117&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA&sideLabels=A78BFA)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 💬 Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anzay12&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&area_color=A78BFA)](https://github.com/Anzay12)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/Anzay12/Anzay12/output/github-contribution-grid-snake-dark.svg)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anzay12&show_icons=true&theme=default&hide_border=true&bg_color=0F172A&title_color=818CF8&icon_color=818CF8&text_color=E2E8F0&count_private=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anzay12&layout=compact&theme=default&hide_border=true&bg_color=0F172A&title_color=818CF8&text_color=E2E8F0&langs_count=8"/>
 
 </div>
 
@@ -336,10 +123,6 @@ himanshu = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
-
-### 🤝 Let's Connect & Build Something Amazing!
-
-![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=A78BFA&center=true&vCenter=true&width=400&lines=Open+to+Internships+%26+Collaborations+👋;Let's+build+the+future+of+Quant+ML+%26+MLOps+🚀)
+📫 **Let's connect** — [LinkedIn](https://www.linkedin.com/in/himanshu-pandey12/) · [Email](mailto:himanshu.pandey.ds@gmail.com) · [Portfolio](https://portfolio-omega-two-31.vercel.app)
 
 </div>
