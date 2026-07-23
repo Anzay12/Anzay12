@@ -1,56 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Himanshu%20Pandey&fontSize=52&fontColor=fff&fontAlignY=36&desc=🤖%20AI%20%2F%20ML%20Engineer%20%7C%20GenAI%20%26%20Agentic%20RAG%20%7C%20MLOps&descAlignY=56&descSize=18&animation=twinkling" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&random=false&width=750&lines=Building+Production-Ready+AI+Systems;RAG+%7C+LangGraph+%7C+LLM+Engineering;IIT+Madras+%7C+BS+Data+Science+2026;From+Models+to+Deployed+Intelligent+Agents;Open+to+AI%2FML+Engineer+Roles" alt="Typing SVG" />
-</a>
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-pandey12/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HimanshuPandey216)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:himanshupandey2166@gmail.com)
-[![IIT Madras](https://img.shields.io/badge/IIT%20Madras-FF6B35?style=for-the-badge&logo=google-scholar&logoColor=white)](https://study.iitm.ac.in/)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=HimanshuPandey216&color=A78BFA&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/HimanshuPandey216?style=for-the-badge&color=A78BFA&labelColor=0d1117)
-
-</div>
-
----
-
-## 🧠 About Me
-
-```python
-himanshu = {
-    "role"        : "Data Science & MLOps Intern @ Shodhshala",
-    "education"   : "BS in Data Science & Applications — IIT Madras (2026)",
-    "focus"       : ["Generative AI", "Agentic RAG", "MLOps", "LLM Systems"],
-    "building"    : "Production-grade RAG pipelines — retrieval, guardrails, observability",
-    "core_stack"  : ["Python", "LangGraph", "LangChain", "FastAPI", "Qdrant", "Docker", "MLflow", "AWS"],
-    "currently"   : "Shipping agentic AI & ML systems end-to-end, from data to deployment",
-    "looking_for" : ["AI/ML Engineer", "GenAI Engineer", "MLOps Engineer"],
-}
-```
-
-> 💬 *I don't just build models — I engineer AI systems that retrieve, reason, and ship safely to production.*
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 💼 Work Experience
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║   🏢  Shodhshala  |  Data Science & MLOps Intern             ║
-║   📅  Jan 2026 – Present  |  🌐 Remote                        ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
 </div>
 
 - 🏗️ Architected an end-to-end **MLOps pipeline** (ingestion → feature engineering → training → MLflow/DVC tracking), containerized on **Docker** and deployed on **AWS** — cutting model release cycles by **~50%**
@@ -59,7 +6,7 @@ himanshu = {
 - ⚡ Built automated **ETL pipelines** — **~40%** faster preprocessing, enabling real-time feature availability
 - 🗄️ Designed & optimized **PostgreSQL** (1M+ rows) — **~30%** faster query response time
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=15&section=header&animation=twinkling" width="100%">
 
 ## 🚀 Featured AI / ML Projects
 
@@ -74,7 +21,7 @@ himanshu = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=15&section=header&animation=twinkling" width="100%">
 
 ## 🧬 GenAI & Agentic AI Stack
 
@@ -112,7 +59,7 @@ himanshu = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=15&section=header&animation=twinkling" width="100%">
 
 ## 🛠️ Core Tech Stack
 
@@ -152,7 +99,7 @@ himanshu = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=15&section=header&animation=twinkling" width="100%">
 
 ## 🎓 Certifications
 
@@ -171,7 +118,7 @@ himanshu = {
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=15&section=header&animation=twinkling" width="100%">
 
 ## 📊 GitHub Stats
 
